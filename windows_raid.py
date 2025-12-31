@@ -22,7 +22,7 @@ except ImportError:
 pyautogui.FAILSAFE = False
 
 CURRENT_VERSION = "1.0"
-VERSION_URL = ""
+VERSION_URL = "https://raw.githubusercontent.com/serdeza01/JJK-Zero-macro/refs/heads/main/version.json"
 
 class JujutsuMacroWindows:
     def __init__(self, root):
